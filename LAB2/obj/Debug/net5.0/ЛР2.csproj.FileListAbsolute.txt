@@ -1,0 +1,48 @@
+C:\Users\пользователь\Desktop\ЛР2\bin\Debug\net5.0\ЛР2.exe
+C:\Users\пользователь\Desktop\ЛР2\bin\Debug\net5.0\ЛР2.deps.json
+C:\Users\пользователь\Desktop\ЛР2\bin\Debug\net5.0\ЛР2.runtimeconfig.json
+C:\Users\пользователь\Desktop\ЛР2\bin\Debug\net5.0\ЛР2.runtimeconfig.dev.json
+C:\Users\пользователь\Desktop\ЛР2\bin\Debug\net5.0\ЛР2.dll
+C:\Users\пользователь\Desktop\ЛР2\bin\Debug\net5.0\ref\ЛР2.dll
+C:\Users\пользователь\Desktop\ЛР2\bin\Debug\net5.0\ЛР2.pdb
+C:\Users\пользователь\Desktop\ЛР2\obj\Debug\net5.0\ЛР2.csprojAssemblyReference.cache
+C:\Users\пользователь\Desktop\ЛР2\obj\Debug\net5.0\ЛР2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\Desktop\ЛР2\obj\Debug\net5.0\ЛР2.AssemblyInfoInputs.cache
+C:\Users\пользователь\Desktop\ЛР2\obj\Debug\net5.0\ЛР2.AssemblyInfo.cs
+C:\Users\пользователь\Desktop\ЛР2\obj\Debug\net5.0\ЛР2.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\ЛР2\obj\Debug\net5.0\ЛР2.dll
+C:\Users\пользователь\Desktop\ЛР2\obj\Debug\net5.0\ref\ЛР2.dll
+C:\Users\пользователь\Desktop\ЛР2\obj\Debug\net5.0\ЛР2.pdb
+C:\Users\пользователь\Desktop\ЛР2\obj\Debug\net5.0\ЛР2.genruntimeconfig.cache
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР2\bin\Debug\net5.0\ЛР2.exe
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР2\bin\Debug\net5.0\ЛР2.deps.json
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР2\bin\Debug\net5.0\ЛР2.runtimeconfig.json
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР2\bin\Debug\net5.0\ЛР2.runtimeconfig.dev.json
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР2\bin\Debug\net5.0\ЛР2.dll
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР2\bin\Debug\net5.0\ref\ЛР2.dll
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР2\bin\Debug\net5.0\ЛР2.pdb
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР2\obj\Debug\net5.0\ЛР2.csprojAssemblyReference.cache
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР2\obj\Debug\net5.0\ЛР2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР2\obj\Debug\net5.0\ЛР2.AssemblyInfoInputs.cache
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР2\obj\Debug\net5.0\ЛР2.AssemblyInfo.cs
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР2\obj\Debug\net5.0\ЛР2.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР2\obj\Debug\net5.0\ЛР2.dll
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР2\obj\Debug\net5.0\ref\ЛР2.dll
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР2\obj\Debug\net5.0\ЛР2.pdb
+C:\Users\пользователь\Desktop\Учеба\ТМП\ЛР2\obj\Debug\net5.0\ЛР2.genruntimeconfig.cache
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР2 +\bin\Debug\net5.0\ЛР2.exe
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР2 +\bin\Debug\net5.0\ЛР2.deps.json
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР2 +\bin\Debug\net5.0\ЛР2.runtimeconfig.json
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР2 +\bin\Debug\net5.0\ЛР2.runtimeconfig.dev.json
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР2 +\bin\Debug\net5.0\ЛР2.dll
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР2 +\bin\Debug\net5.0\ref\ЛР2.dll
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР2 +\bin\Debug\net5.0\ЛР2.pdb
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР2 +\obj\Debug\net5.0\ЛР2.csprojAssemblyReference.cache
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР2 +\obj\Debug\net5.0\ЛР2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР2 +\obj\Debug\net5.0\ЛР2.AssemblyInfoInputs.cache
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР2 +\obj\Debug\net5.0\ЛР2.AssemblyInfo.cs
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР2 +\obj\Debug\net5.0\ЛР2.csproj.CoreCompileInputs.cache
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР2 +\obj\Debug\net5.0\ЛР2.dll
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР2 +\obj\Debug\net5.0\ref\ЛР2.dll
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР2 +\obj\Debug\net5.0\ЛР2.pdb
+C:\Users\dvdvd\Downloads\TMP\ТМП\ЛР2 +\obj\Debug\net5.0\ЛР2.genruntimeconfig.cache
